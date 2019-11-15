@@ -1,12 +1,17 @@
 {
-  "name": "readers",
+  "name": "readert-monad-transformer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "learning-by-doing",
+    "functional-programming",
+    "natural transformations",
+    "folktale"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
